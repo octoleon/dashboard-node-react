@@ -1,0 +1,11 @@
+.react-tel-input .form-control{
+    width: 100% !important;
+    height: 50px;
+}
+.modal-dialog {
+    width: 100%;
+    margin-top: 10%;
+  }
+  #otp{
+      margin: 0 auto !important;
+  }
